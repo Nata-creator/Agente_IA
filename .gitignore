@@ -1,0 +1,8 @@
+# Caché de Python
+__pycache__/
+
+# Entorno virtual
+agente_ia_env/
+
+# Constante de entorno
+.env
