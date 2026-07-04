@@ -1,4 +1,3 @@
-import cohere
 from script_leer_documento import LeerDocumento
 import requests
 import json
@@ -9,7 +8,6 @@ class ConectarConAgente():
     def __init__(self):
         load_dotenv()
         self.api_key = os.getenv("OPENROUTER_API_KEY")
-        self.conexion_cohere = cohere.ClientV2(api_key=self.api_key)
     
     def obtener_respuesta_modelo_agente(self, pregunta):
         lector_documento = LeerDocumento()
