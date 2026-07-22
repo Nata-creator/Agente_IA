@@ -63,6 +63,22 @@ Respuesta: ...
 Pregunta: salir
 Hasta luego.
 
+## Interfaz sencilla con Streamlit
+
+Tambien puedes ejecutar una interfaz web local para hacer preguntas al agente:
+
+py -m streamlit run app.py
+
+La pantalla permite:
+
+- Escribir una pregunta sobre el PDF.
+- Enviar la pregunta al agente.
+- Mostrar la respuesta en pantalla.
+
+Si aun no tienes Streamlit instalado, ejecuta primero:
+
+py -m pip install -r requirements.txt
+
 ## Cómo funciona
 
 1. chat_pregunta.py inicia el programa por consola.
