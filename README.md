@@ -96,3 +96,26 @@ py -m pip install -r requirements.txt
 
 ## Evidencia
 Link del agente en deploy https://agenteia-5etgtzvmac55s5xkj2vasd.streamlit.app/
+
+## Ejemplo de pregunta
+El documento es basado en el manejo del estres laboral
+Pregunta: De que trata el documento
+Posible respuesta del agente:
+El documento es una guía práctica para manejar el estrés en el trabajo, que explica qué es el estrés laboral, sus señales comunes, causas, y ofrece estrategias efectivas (identificar causas, establecer límites, gestionar el tiempo, cuidar el bienestar físico y mental, buscar apoyo y fomentar un ambiente laboral positivo), además de incluir un plan de acción personal.
+
+Pregunta: como puedo manejar el estrés
+Posible respuesta del agente:
+Basándote en la guía, puedes manejar el estrés laboral siguiendo estos pasos prácticos:
+
+Identifica las causas principales – Piensa en lo que desencadena el estrés para ti (por ejemplo, sobrecarga de trabajo, falta de control, ambiente laboral difícil, inseguridad, falta de reconocimiento, o carga excesiva que afecta tu vida personal).
+
+Establece límites claros –
+
+Desconéctate del trabajo cuando termine la jornada.
+Fiáate un horario fijo de inicio y fin y respétalo.
+Aprende a decir "no" (con tacto) a nuevas tareas si estás sobrecargado, o negocia plazos más realistas.
+Gestiona tu tiempo y tus tareas –
+
+Prioriza usando la matriz de Eisenhower (urgente/importante).
+Planifica las tareas al inicio del día o la noche anterior.
+Evita la multitarea y co.............................
